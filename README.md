@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **batra.t@northeastern.edu**
 
-- 📄 Know about my experiences [placeholder](placeholder)
+- 📄 Know about my experiences **https://www.linkedin.com/in/tanyasbatra/**
 
 - ⚡ Fun fact **kkk**
 
