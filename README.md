@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.tanyasbatra.com](https://www.tanyasbatra.com)
 
-- 📝 I regularly write articles on [jj](jj)
-
 - 💬 Ask me about **Java, JavaScript, TypeScript, React.js, Node.js**
 
 - 📫 How to reach me **batra.t@northeastern.edu**
